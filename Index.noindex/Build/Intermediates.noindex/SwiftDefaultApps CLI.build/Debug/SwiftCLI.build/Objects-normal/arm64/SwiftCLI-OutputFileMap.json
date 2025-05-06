@@ -1,0 +1,63 @@
+{
+  "" : {
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/SwiftCLI-master.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/SwiftCLI-master.dia",
+    "emit-module-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/SwiftCLI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/SwiftCLI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/SwiftCLI-master.swiftdeps"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CLI.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/ChainableCommand.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Command.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandArgumentParser.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandArguments.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandMessageGenerator.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandSignature.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Extensions.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/HelpCommand.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Input.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/LightweightCommand.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/OptionParser.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/OptionRegistry.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Output.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/RawArgumentParser.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/RawArguments.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Router.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/VersionCommand.swift" : {
+
+  }
+}

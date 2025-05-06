@@ -1,0 +1,188 @@
+{
+  "" : {
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/SwiftCLI-master.dia",
+    "emit-module-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/SwiftCLI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/SwiftCLI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/SwiftCLI-master.swiftdeps"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CLI.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CLI.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CLI.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CLI.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CLI.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CLI.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CLI.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CLI.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CLI~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/ChainableCommand.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/ChainableCommand.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/ChainableCommand.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/ChainableCommand.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/ChainableCommand.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/ChainableCommand.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/ChainableCommand.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/ChainableCommand.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/ChainableCommand~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Command.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Command.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Command.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Command.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Command.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Command.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Command.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Command.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Command~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandArgumentParser.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArgumentParser.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArgumentParser.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArgumentParser.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArgumentParser.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArgumentParser.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArgumentParser.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArgumentParser.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArgumentParser~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandArguments.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArguments.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArguments.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArguments.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArguments.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArguments.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArguments.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArguments.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandArguments~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandMessageGenerator.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandMessageGenerator.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandMessageGenerator.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandMessageGenerator.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandMessageGenerator.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandMessageGenerator.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandMessageGenerator.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandMessageGenerator.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandMessageGenerator~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandSignature.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandSignature.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandSignature.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandSignature.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandSignature.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandSignature.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandSignature.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandSignature.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/CommandSignature~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Extensions.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Extensions.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Extensions.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Extensions.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Extensions.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Extensions.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Extensions~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/HelpCommand.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/HelpCommand.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/HelpCommand.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/HelpCommand.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/HelpCommand.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/HelpCommand.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/HelpCommand.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/HelpCommand.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/HelpCommand~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Input.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Input.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Input.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Input.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Input.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Input.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Input.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Input.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Input~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/LightweightCommand.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/LightweightCommand.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/LightweightCommand.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/LightweightCommand.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/LightweightCommand.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/LightweightCommand.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/LightweightCommand.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/LightweightCommand.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/LightweightCommand~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/OptionParser.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionParser.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionParser.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionParser.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionParser.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionParser.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionParser.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionParser.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionParser~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/OptionRegistry.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionRegistry.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionRegistry.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionRegistry.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionRegistry.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionRegistry.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionRegistry.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionRegistry.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/OptionRegistry~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Output.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Output.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Output.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Output.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Output.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Output.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Output.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Output.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Output~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/RawArgumentParser.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArgumentParser.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArgumentParser.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArgumentParser.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArgumentParser.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArgumentParser.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArgumentParser.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArgumentParser.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArgumentParser~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/RawArguments.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArguments.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArguments.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArguments.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArguments.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArguments.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArguments.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArguments.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/RawArguments~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Router.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Router.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Router.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Router.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Router.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Router.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Router.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Router.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/Router~partial.swiftmodule"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/VersionCommand.swift" : {
+    "const-values" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/VersionCommand.swiftconstvalues",
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/VersionCommand.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/VersionCommand.dia",
+    "index-unit-output-path" : "/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/VersionCommand.o",
+    "llvm-bc" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/VersionCommand.bc",
+    "object" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/VersionCommand.o",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/VersionCommand.swiftdeps",
+    "swiftmodule" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftCLI.build/Objects-normal/arm64/VersionCommand~partial.swiftmodule"
+  }
+}

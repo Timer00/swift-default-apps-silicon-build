@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/AppDoesNothing.build/Debug/ThisAppDoesNothing.build/Objects-normal/arm64/ThisAppDoesNothing-master.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/AppDoesNothing.build/Debug/ThisAppDoesNothing.build/Objects-normal/arm64/ThisAppDoesNothing-master.dia",
+    "emit-module-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/AppDoesNothing.build/Debug/ThisAppDoesNothing.build/Objects-normal/arm64/ThisAppDoesNothing-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/AppDoesNothing.build/Debug/ThisAppDoesNothing.build/Objects-normal/arm64/ThisAppDoesNothing-master-emit-module.dia",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/AppDoesNothing.build/Debug/ThisAppDoesNothing.build/Objects-normal/arm64/ThisAppDoesNothing-master.swiftdeps"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Sources/DummyApp/AppDelegate.swift" : {
+
+  }
+}

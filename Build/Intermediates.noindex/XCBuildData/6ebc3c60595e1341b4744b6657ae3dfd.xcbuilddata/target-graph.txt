@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'SwiftDefaultApps' in project 'SWDA Prefpane'
+➜ Explicit dependency on target 'SwiftDefaultApps' in project 'SwiftDefaultApps CLI'
+➜ Explicit dependency on target 'ThisAppDoesNothing' in project 'AppDoesNothing'
+Target 'ThisAppDoesNothing' in project 'AppDoesNothing' (no dependencies)
+Target 'SwiftDefaultApps' in project 'SwiftDefaultApps CLI'
+➜ Explicit dependency on target 'SwiftCLI' in project 'SwiftDefaultApps CLI'
+Target 'SwiftCLI' in project 'SwiftDefaultApps CLI' (no dependencies)

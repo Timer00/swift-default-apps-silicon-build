@@ -1,0 +1,23 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "2373bb1ab8c0c95bdbab495a33c1eecc9af69970506ad6fe5237a8e8a9018f2d"
+build_start_time: [1746480898, 126976000]
+build_end_time: [1746480898, 606194000]
+inputs:
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CLI.swift": [1746479442, 471977068]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/ChainableCommand.swift": [1746479442, 472042777]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Command.swift": [1746479442, 472120154]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandArgumentParser.swift": [1746479442, 472188030]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandArguments.swift": [1746479442, 472249947]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandMessageGenerator.swift": [1746479442, 472321657]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/CommandSignature.swift": [1746479442, 472389992]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Extensions.swift": [1746479442, 472450409]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/HelpCommand.swift": [1746479442, 472528119]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Input.swift": [1746479442, 472605745]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/LightweightCommand.swift": [1746479442, 472672580]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/OptionParser.swift": [1746479442, 472789123]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/OptionRegistry.swift": [1746479442, 472899709]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Output.swift": [1746479442, 472968876]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/RawArgumentParser.swift": [1746479442, 473041544]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/RawArguments.swift": [1746479442, 473099254]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/Router.swift": [1746479442, 473164630]
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Packages/SwiftCLI-2.0.3/Sources/VersionCommand.swift": [1746479442, 473261923]

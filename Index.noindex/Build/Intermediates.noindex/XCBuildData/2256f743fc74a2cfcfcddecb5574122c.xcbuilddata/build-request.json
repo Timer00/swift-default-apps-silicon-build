@@ -1,0 +1,57 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "cfee655993bcb9fe0ed3b0cdecb5eb35fbb2065d378e586722c256c5e162a7a2"
+    },
+    {
+      "guid" : "b37366c76db102c6c62b81d4a698e49a9bd809914de153fc5ebc19ce73b67e29"
+    },
+    {
+      "guid" : "60a69751748dd5830baf74655b68b2e82bf48804d425966bd55f81d66e6f0288"
+    },
+    {
+      "guid" : "60a69751748dd5830baf74655b68b2e8a5feb693e46f9a220b07f89239f2cde8"
+    }
+  ],
+  "containerPath" : "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/SWDA Prefpane.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/theo/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Build/Products",
+      "pchPath" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

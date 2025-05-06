@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "2edb9e6b28f5fef38538476aed6645c0816ace90046d2d459acc0586988b7ceb"
+build_start_time: [1746479687, 91291000]
+build_end_time: [1746479689, 933135000]
+inputs:
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Sources/DummyApp/AppDelegate.swift": [1746479420, 101184207]

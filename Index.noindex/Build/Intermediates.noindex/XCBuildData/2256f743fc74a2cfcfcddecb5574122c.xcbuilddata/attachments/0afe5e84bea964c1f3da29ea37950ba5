@@ -1,0 +1,33 @@
+{
+  "" : {
+    "dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftDefaultApps.build/Objects-normal/arm64/SwiftDefaultApps-master.d",
+    "diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftDefaultApps.build/Objects-normal/arm64/SwiftDefaultApps-master.dia",
+    "emit-module-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftDefaultApps.build/Objects-normal/arm64/SwiftDefaultApps-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftDefaultApps.build/Objects-normal/arm64/SwiftDefaultApps-master-emit-module.dia",
+    "swift-dependencies" : "/Users/theo/Library/Developer/Xcode/DerivedData/SWDA_Prefpane-alomnglkmwhohegtodgaxtmsbdkt/Index.noindex/Build/Intermediates.noindex/SwiftDefaultApps CLI.build/Debug/SwiftDefaultApps.build/Objects-normal/arm64/SwiftDefaultApps-master.swiftdeps"
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Sources/CLI Components/getApps.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Sources/CLI Components/getHandler.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Sources/CLI Components/getSchemes.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Sources/CLI Components/getUTIs.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Sources/CLI Components/main.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Sources/CLI Components/setHandler.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Sources/Common Sources/LSWrappers.swift" : {
+
+  },
+  "/Users/theo/MEGA/Software/SwiftDefaultApps/SwiftDefaultApps/Sources/Common Sources/commonFuncs.swift" : {
+
+  }
+}

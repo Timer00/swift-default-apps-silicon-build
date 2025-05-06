@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'SwiftDefaultApps' in project 'SWDA Prefpane'
+➜ Explicit dependency on target 'ThisAppDoesNothing' in project 'AppDoesNothing'
+Target 'ThisAppDoesNothing' in project 'AppDoesNothing' (no dependencies)

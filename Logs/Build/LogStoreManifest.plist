@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>7E1B3F42-BBCC-4B44-A1E7-6AEF248E13F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E1B3F42-BBCC-4B44-A1E7-6AEF248E13F6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SWDA Prefpane project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Build Prefpane</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Build Prefpane</string>
+			<key>timeStartedRecording</key>
+			<real>768172895.47755897</real>
+			<key>timeStoppedRecording</key>
+			<real>768172895.57489097</real>
+			<key>title</key>
+			<string>Build Build Prefpane</string>
+			<key>uniqueIdentifier</key>
+			<string>7E1B3F42-BBCC-4B44-A1E7-6AEF248E13F6</string>
+		</dict>
+		<key>96B23CDD-7BBC-4E3F-AED5-9E8979E69504</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96B23CDD-7BBC-4E3F-AED5-9E8979E69504.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>12</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SWDA Prefpane project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Build Prefpane</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Build Prefpane</string>
+			<key>timeStartedRecording</key>
+			<real>768173715.34308398</real>
+			<key>timeStoppedRecording</key>
+			<real>768173725.39494705</real>
+			<key>title</key>
+			<string>Build Build Prefpane</string>
+			<key>uniqueIdentifier</key>
+			<string>96B23CDD-7BBC-4E3F-AED5-9E8979E69504</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
